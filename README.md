@@ -1,5 +1,7 @@
 # Jigsaw Puzzle Generator and Extractor
 
+NOTE:  the programs in this repository were created as a by-product of an experiment in "Vibe Coding" taking place in early May 2025.   Rather humorously, the original prompts generated some truly awful code, but after I added "Why are you being so stubborn!    I know how this should be coded and have explained it clearly in the accompanying implementation design."   It all began to fall into place...
+
 This repository contains two complementary Python scripts that work together to create custom jigsaw puzzles:
 
 1. `gen_jigsaw.py` - Generates SVG files with jigsaw puzzle cut patterns
