@@ -157,4 +157,7 @@ The extractor uses an allocation map system to ensure each pixel is assigned to 
 
 ## License
 
-[Your License Information Here]
+Copyright (c) Daniel Shields 2025
+
+This project is licensed under the Artistic License 2.0.
+You may use, modify, and distribute this software under the terms of that license.
