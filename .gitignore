@@ -45,12 +45,7 @@ coverage.xml
 .DS_Store
 
 # Generated files
-pieces/
 debug/
-*.png
-*.jpg
-*.jpeg
-*.svg
 !examples/*.png
 !examples/*.jpg
 !examples/*.svg
